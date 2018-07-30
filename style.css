@@ -1,0 +1,35 @@
+body {
+	text-align: center;
+}
+
+.card-body{
+	position: relative;
+	width: 421px;
+	border: 2px solid black;
+	border-radius: 5px;
+	padding: 30px;
+	margin-left: 500px;
+}
+
+#button1{
+	background:lightgrey;
+	width: 20%;
+	font-size: 20px;
+	font-weight: 900;
+	margin: 2%;
+	border-radius: 4px;
+}
+
+#input1{
+	position: relative;
+	width: 90%;
+	display: block;
+	margin: 5px auto;
+	font-size: 20px;
+
+}
+
+h1, h2{
+	font-family: 'Do Hyeon', sans-serif;
+	text-align: center;
+}
